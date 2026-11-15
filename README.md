@@ -1,7 +1,13 @@
-# Oluwaseun Fatoba — MIT 8103
+# Customer Orders and Product Lines
 
-Student ID: 301907749
+Oluwaseun Fatoba · Student ID 301907749
 
-Customer Orders and Product Lines. Model Customer, Product, Order and OrderLine, with foreign keys from orders to customers and lines to orders/products. Require a unique order number and positive line quantity. Query best-selling products by month. Place an order and its lines in one transaction; record MongoDB order events with snapshots of the order, customer and ordered products.
+The portfolio uses fictional records for Customer Orders and Product Lines.
 
-The portfolio is being generated. Completed stages will appear in the commit history.
+- [Portfolio 1](portfolio-1-database-design/)
+- [Portfolio 2](portfolio-2-query-optimisation/)
+- [Portfolio 3](portfolio-3-transactions-concurrency/)
+- [Portfolio 4](portfolio-4-nosql/)
+- [Portfolio 5](portfolio-5-distributed-cloud/)
+
+[Final summary](Fatoba_Oluwaseun_301907749_FinalSummary.md) · [PDF](Fatoba_Oluwaseun_301907749_FinalSummary.pdf)
